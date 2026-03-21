@@ -2,7 +2,7 @@
 
 I'm a **Full Stack & AI Engineer** based in Morocco. 
 
-With a solid foundation in Full Stack development and a certification from **YouCode**, I specialize in building robust web applications and integrating intelligent AI solutions. I currently work remotely for a US-based company, focusing on scalable architecture, clean code, and modern backend systems.
+With a solid foundation in Full Stack development and a certification from **YouCode**, I specialize in building robust web applications and integrating intelligent AI solutions. focusing on scalable architecture, clean code, and modern backend systems.
 
 ### 🧠 What I’m Doing Now
 * **Software Engineering:** Developing and optimizing AI-driven features and integrations.
