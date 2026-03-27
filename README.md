@@ -38,6 +38,6 @@ With a solid foundation in Full Stack development and a certification from **You
 * **Monster Card Game:** A creative web project involving dynamic asset generation and interactive gameplay mechanics.
 
 ### 📫 Let's Connect
-* **GitHub:** [github.com/tariqbahaz](https://github.com/bahaztariq)
+* **Linkedin:** [Linkedin.com/in/tariqbahaz](https://www.linkedin.com/in/bahaztariq/)
 * **Email:** [tariqbahaz@email.com](mailto:bahaztariq@email.com)
 * **Location:** Safi, Morocco
