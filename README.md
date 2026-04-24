@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tariq Bahaz
 
-I'm a **Full Stack & AI Engineer** based in Morocco. With a solid foundation in Full Stack development and a certification from **YouCode**, I specialize in building robust web applications and integrating intelligent AI solutions. My focus is on scalable architecture, clean code, and modern backend systems.
+I'm a **Full Stack & AI Engineer** based in Morocco. With a solid foundation in Full Stack development and a certification from **YouCode**, I specialize in building robust web applications and int[...]
 
-### 🧠 What I’m Doing Now
+### 🧠 What I'm Doing Now
 * **Software Engineering:** Developing and optimizing AI-driven features and integrations.
 * **Backend Mastery:** Building complex systems with **PHP** and **Laravel** (including real-time features with **Reverb**).
 * **Frontend Precision:** Crafting responsive, high-performance UIs using **Tailwind CSS** and native CSS.
@@ -25,6 +25,7 @@ I'm a **Full Stack & AI Engineer** based in Morocco. With a solid foundation in 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### 📊 Featured Projects
 * **LINKUP:** A social media application built with Laravel focusing on community connectivity.
