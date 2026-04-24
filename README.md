@@ -9,6 +9,7 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, intellige
 * **Active Innovation:** Leading development on **LINKUP** (a community-centric social platform) and a sophisticated short-term rental ecosystem.
 
 ### 💻 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
