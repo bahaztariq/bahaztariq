@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tariq Bahaz
 
-I'm a **Full Stack & AI Engineer** passionate about building scalable, intelligent web solutions. Based in Morocco with a **YouCode** certification, I combine deep technical expertise with a drive to create applications that blend elegant design with powerful functionality. I specialize in crafting end-to-end systems where user experience meets cutting-edge technology.
+I'm a **Full Stack & AI Engineer** passionate about building scalable, intelligent web solutions. Based in Morocco with a **YouCode** certification, I combine deep technical expertise with a drive [...]
 
 ### 🧠 What I'm Doing Now
 * **AI Integration:** Designing and implementing AI-driven features that enhance user engagement and system intelligence.
@@ -10,8 +10,13 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, intellige
 
 ### 💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
