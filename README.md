@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tariq Bahaz
 
-I'm a **Full Stack & AI Engineer** passionate about building scalable, intelligent web solutions. Based in Morocco with a **YouCode** certification, I combine deep technical expertise with a drive [...]
+I'm a **Full Stack & AI Engineer** with expertise in building scalable, intelligent, and user-centric applications. Based in Morocco with a **YouCode** certification, I'm passionate about combining cutting-edge technologies with innovative problem-solving to create meaningful digital solutions. I specialize in end-to-end development—from architecting robust backends to crafting intuitive frontends—while leveraging AI to push the boundaries of what's possible.
 
 ### 🧠 What I'm Doing Now
 * **AI Integration:** Designing and implementing AI-driven features that enhance user engagement and system intelligence.
@@ -11,6 +11,8 @@ I'm a **Full Stack & AI Engineer** passionate about building scalable, intellige
 ### 💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
